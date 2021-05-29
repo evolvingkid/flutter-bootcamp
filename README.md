@@ -27,16 +27,6 @@ Afterwards, there will be a test where you will be creating a basic Flutter appl
 On completing, we will proceed to the 2nd section.
 
 
-## Books about Flutter & Dart
-
-[Beginning App Development with Flutter](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Beginning%20App%20Development%20with%20Flutter.pdf)<br/>
-[Dart Essentials](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Dart%20Essentials.pdf)<br/>
-[Dart Up and Running](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Dart%20Up%20and%20Running.pdf)<br/>
-[Futter Recipes](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Flutter%20Recipes.pdf)<br/>
-[Flutter in Action](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Flutter%20in%20Action.pdf)<br/>
-[Quick Start Guide to Dart programming](https://github.com/evolvingkid/flutter-bootcamp-2020/blob/master/Quick%20Start%20Guide%20to%20Dart%20Programming.pdf)<br/>
-
-
 
 ## Schedule
 

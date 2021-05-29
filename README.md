@@ -1,7 +1,5 @@
 # Flutter BootCamp 2021
 
-![Flutter bootcamp](https://github.com/evolvingkid/flutter-bootcamp/blob/2020/flutter%20banner.png)
-
 Flutter Bootcamp organized by flutter Kerala and GTech uLearn.
 
 To know more about Flutter : [Flutter Dev](https://flutter.dev/)
